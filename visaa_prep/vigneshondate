@@ -1,0 +1,5 @@
+p,q = list(map(int,input().split()))
+if p-q >=0:
+    print("YES")
+else:
+    print("NO")
